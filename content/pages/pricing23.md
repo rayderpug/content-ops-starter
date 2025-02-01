@@ -47,17 +47,15 @@ sections:
         price: 'Domicilio:'
         details: ''
         description: |+
-          Codigo postal: 11111
+          ## Codigo postal: 11111
 
-          Estado: 11111
+          ## Estado: 11111
 
-          Municipio: 11111
+          ## Municipio: 11111
 
-          Colonia: 11111
+          ## Colonia: 11111
 
-          Calle: 111111
-
-
+          ## Calle: 111111
 
         features:
           - Feature one
