@@ -34,7 +34,6 @@ sections:
         features:
           - Feature one
           - Feature two
-          - Feature four
         actions:
           - type: Button
             label: Try for free
