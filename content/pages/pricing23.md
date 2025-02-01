@@ -31,8 +31,7 @@ sections:
 
           ### Nacionalidad: Mexicana
 
-        features:
-          - Feature one
+        features: []
         actions:
           - type: Button
             label: Try for free
