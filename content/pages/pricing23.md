@@ -16,9 +16,8 @@ sections:
         title: ''
         price: Informacion
         details: 'Informacion Personal:'
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Nombre: Juan Apellido paterno: Juan Apellido Materno: Juan
         features:
           - Feature one
           - Feature two
