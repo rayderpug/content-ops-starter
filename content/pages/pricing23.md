@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: ''
-        details: 'Informacion Personal:'
+        details: ''
         description: |+
           ### Nombre: Juan
 
