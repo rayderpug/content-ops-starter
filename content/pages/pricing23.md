@@ -33,7 +33,6 @@ sections:
 
         features:
           - Feature one
-          - Feature two
         actions:
           - type: Button
             label: Try for free
