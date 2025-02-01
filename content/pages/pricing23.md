@@ -45,7 +45,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: 'Domicilio:'
-        details: ¡
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
