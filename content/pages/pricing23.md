@@ -13,7 +13,7 @@ sections:
     subtitle: 'Fecha de Registro:'
     plans:
       - type: PricingPlan
-        title: ''
+        title: Informacion
         price: Informacion
         details: 'Informacion Personal:'
         description: |+
