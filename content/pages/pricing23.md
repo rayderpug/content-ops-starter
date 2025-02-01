@@ -17,19 +17,19 @@ sections:
         price: Informacion
         details: 'Informacion Personal:'
         description: |+
-          ## Nombre: Juan 
+          ### Nombre: Juan
 
-          ## Apellido paterno: Juan 
+          ### Apellido paterno: Juan
 
-          ## Apellido Materno: Juan
+          ### Apellido Materno: Juan
 
-          ## Fecha de nacimiento: Juan
+          ### Fecha de nacimiento: Juan
 
-          ## CURP: Juan
+          ### CURP: Juan
 
-          ## Sexo: A veces
+          ### Sexo: A veces
 
-          ## Nacionalidad: Mexicana
+          ### Nacionalidad: Mexicana
 
         features:
           - Feature one
