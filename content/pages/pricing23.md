@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Informacion
-        details: No credit card required
+        details: 'Informacion Personal:'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
